@@ -1,3 +1,5 @@
+> 该应用 fork 自angular的官方项目angular-phonecat，只是对 `README.md` 做了中文翻译，其他内容保持不变。
+
 # AngularJS 手机商城入门应用
 
 ## 简述
